@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "10015a63ba6e46fbe7a1f829",
+  "owner": "cnkkspst",
+  "repo": "page-77578d640d7f516251a3b394",
+  "title": "Lambda",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "77578d640d7f516251a3b394",
+      "a": "Lambda",
+      "b": "clash verge下载",
+      "entity": "Lambda",
+      "brand": "Lambda",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4d252b2ffadb4e2cf9d96b597f7072d1e25d9c8f2ebf932950cc436d43f2b566",
+      "content": {
+        "primary_entity": "Lambda",
+        "keyword1": "Lambda",
+        "keyword2": "clash verge下载",
+        "content": {
+          "AI_DESCRIPTION": "，Lambda 提供覆盖日常浏览、流媒体与游戏加速的海外连接方案，基础版适合手机与平板双设备轻量使用，旗舰版增加 IPLC 专线并支持五台设备，团队版面向多终端协作场景。订阅导入后按客户端文档配置即可，设备数量与流量按套餐区分，可按月或按年付费。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择",
+          "AI_HERO_INTRO": "Lambda 是一款面向跨境访问的加速订阅服务，节点覆盖常见流媒体与游戏线路。用户根据设备数量、月流量和预算在基础版、旗舰版与团队版之间选择，配置时按所用客户端导入订阅信息即可开始使用。",
+          "AI_VISUAL_TITLE": "Lambda 订阅选择",
+          "AI_HIGHLIGHT_1": "三档套餐适配不同设备数",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏专线",
+          "AI_HIGHLIGHT_3": "支持月付与年付灵活周期",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURES_INTRO": "从设备规模、流量用量和线路偏好三方面判断合适的套餐。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版 5 台，团队版可 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量选档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档流量，按实际用量选取。",
+          "AI_FEATURE_TITLE_3": "按周期选付费",
+          "AI_FEATURE_TEXT_3": "各套餐支持月付，也可按年付，年付价格为月付的十个月额度。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择适配的客户端，再对照其文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数与线路类型上逐级提升，按需对比即可。",
+          "AI_GUIDE_TITLE": "订阅使用步骤",
+          "AI_GUIDE_INTRO": "从选择服务到完成配置，三步即可开始使用 Lambda。",
+          "AI_STEP_TITLE_1": "选定服务",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量，在基础版、旗舰版与团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与线路类型，匹配自身终端环境。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按所用客户端文档的指引导入订阅信息，完成配置后即可连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松连接",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定 Lambda 套餐，按客户端文档完成订阅配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "Lambda 支持哪些设备同时使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台设备同时在线。不同套餐的设备数量不同，按常用终端数量选择即可。",
+          "AI_FAQ_QUESTION_2": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_2": "每档套餐设有每月流量额度，基础版 100GB、旗舰版 300GB、团队版 1000GB。超出后可升级套餐或等待下一计费周期重置。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按自然月计费，适合短期或试用；年付一次性支付全年费用，基础版 150 元，旗舰版 350 元，团队版 850 元，折算后更实惠。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "根据设备系统选择对应客户端，在客户端内使用订阅链接或配置文件导入。具体步骤参考客户端自带文档，按提示完成即可。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多设备、高流量场景，提供 20 台设备、1000GB 月流量和 VIP 高带宽节点，适合小型团队或家庭多人共用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "086c572c8d952b15d074b66d0b29072c175f20f076433e35ea49811be59fee12",
+    "sitemap.xml": "86b09afcd02aaf4164ec52abe044ba0dc0a829e13ec2c36d5ca5c357a8146b8c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "bf8daffa63b321120346c750bfac7c221fe17cd60e0836bcb9ef6e424e4e3c04"
+}
